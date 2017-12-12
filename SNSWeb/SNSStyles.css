@@ -1,0 +1,648 @@
+﻿body {
+    background-color: ivory;
+    min-width: 1257px;
+    max-width: 1257px;
+    display: inline-block;
+}
+
+ul {
+    font-family:AvenirC;
+    font-weight:bold;
+    margin: auto;
+    opacity: .555;
+    background-color: white;
+    padding: 30px;
+    padding-bottom:15px;
+    padding-top:20px;
+    width: 1200px;
+    position: fixed;
+    vertical-align:bottom;
+
+}
+
+li {
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    h
+}
+
+    li a {
+        text-decoration: none;
+        color: black;
+        font-size: larger;
+        vertical-align:bottom;
+    }
+
+h1.welcomePage {
+    font-family:AvenirC;
+    text-align: center;
+    color: lightyellow;
+    padding-bottom: 5px;
+    font-size:70px;
+}
+
+h2.welcomePage {
+    font-family: signpainter;
+    text-align: center;
+    color: lightyellow;
+    font-size: 50px;
+    padding-bottom: 15px;
+}
+
+h3.welcomePage {
+    text-align: center;
+    color: black;
+    margin: auto;
+    width: 160px;
+    height: 25px;
+    display: block;
+    background-color: white;
+    opacity: .555;
+    padding-left:30PX;
+    padding-right:30PX;
+}
+
+img.logo {
+    margin: auto;
+    display: block;
+    height: 200px;
+    width: 200px;
+    padding-top: 100px;
+}
+img.leftLine {
+    float: left;
+    width: 50px;
+    height: 3px;
+}
+img.rightLine {
+    float: right;
+    width: 50px;
+    height:3px;
+}
+img.aboutImg {
+    padding-top:60px;
+    padding-left:40px;
+    width:75%;
+
+}
+table.aboutTitleTbl {
+    padding-top: 100px;
+    width:25%;
+    margin: auto;  
+}
+table.aboutTitleContent {
+    width:90%;
+    margin:auto;
+
+}
+td.about {
+    width:50%;
+}
+
+div.welcomePageDiv {
+    background-image: url('Images/SNSBackground.JPG');
+    height: 700PX;
+    padding-bottom:0px;
+    margin-bottom:0px;
+}
+div.aboutPageDiv 
+{
+    background-color: ivory;
+    height:900px;
+    top:700px;
+    padding-top:2px;
+    margin-top:0px;
+}
+div.hoursPageDiv {
+    background-image: url('Images/OpeningHours.png');
+    background-size:1260px;
+    height: 680px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+div.menuPageDiv {
+    height: 680px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+h1.aboutPageTitle {
+    font-family: AvenirC;
+    text-align: center;
+}
+h2.weekDayHours1 {
+    display:inline-block;
+    float: left;
+    color: black;
+    font-family: signpainter;
+}
+h2.weekDayHours2 {
+    font-family:Calibri;
+    float:left;
+    color:black;
+    font-size:17px;
+}
+h2.weekEndHours1 {
+    float: right;
+    color: black;
+    font-family: signpainter;
+}
+h2.weekEndHours2 {
+    font-family:Calibri;
+    float: right;
+    color: black;
+    font-size:17px;
+}
+p.aboutPageTitle {
+    text-align:center;
+    width:40%;
+    margin:auto;
+    font-family:Calibri;
+    font-style:italic;
+    padding-bottom:40px;
+    font-size:small;
+}
+h2.aboutPageContent {
+    font-family:Edwardian;
+    width:100%;
+    text-align:center;
+    font-size: 40px;
+    color:darkgoldenrod;
+}
+p.aboutPageContent {
+    width: 100%;
+    text-align: left;
+    line-height: 2.25;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    font-family: Calibri;
+}
+table.hoursTitleTbl 
+{
+    padding-top: 70PX;
+    width: 25%;
+    margin: auto;
+
+}
+table.hoursContentTbl {
+    width: 25%;
+    margin: auto;
+    height:30px;
+
+}
+table.menuContentTbl {
+    width: 85%;
+    margin:auto;
+}
+td.verticalLine {
+    width: 3%;
+    margin: auto;
+}
+td.leftContent {
+    width:200px;
+    float:left;
+}
+td.rightContent {
+    width: 200px;
+    float: right;
+}
+img.verticalLine {
+    height:400px;
+}
+img.menuImg {
+    width: 60%;
+    margin:auto;
+    display:block;
+}
+h1.hoursTitle1 {
+    font-family: AvenirC;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+h1.menuTitle {
+    font-family: AvenirC;
+    font-size: 25px;
+    text-align: center;
+    color: black;
+}
+h2.menuHeader {
+   color:darkgoldenrod;
+   font-family:signpainter;
+   text-align:center; 
+}
+h3.hoursTitle2 {
+    font-family: signpainter;
+    font-size: medium;
+    color: darkgoldenrod;
+    text-align: center;
+    font-size: 25px;
+    width: 25%;
+    margin: auto;
+}
+td.test {
+    border:solid black;
+}
+p.menuDetails {
+    text-align:left;
+    font-family:Calibri;
+    padding:30px;
+}
+h3.contactNum {
+    text-align: center;
+    font-family: AvenirC;
+    color: white;
+}
+a.accentWord {
+    text-decoration: none;
+    color: darkgoldenrod;
+    font-family: Calibri;
+}
+a.welcomePage {
+    text-align: center;
+    text-decoration: none;
+    font-family: AvenirC;
+}
+
+div.estimatesDiv {
+    background-image: url('Images/estimatesBackground.png');
+    background-size: 1260px;
+    height: 660px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align:left;
+    font-size:20px;
+    color:black;
+    font-family:signpainter;
+}
+a.text {
+    padding-bottom: 20px;
+    margin:auto;
+    width:85%;
+    color:white;
+    text-align: center;
+    font-size: 40px;
+    font-family: signpainter;
+    text-decoration:none;
+
+}
+.estimatesLbl {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-size: 35px;
+    color: indianred;
+    font-family: signpainter;
+    border: solid 3px red;
+}
+
+.estimatedCost {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-size: 30px;
+    font-weight:bolder;
+    color: indianred;
+    font-family: signpainter;
+    text-decoration:underline;
+}
+.estimatesBtn 
+{
+   width:50%;
+   margin:auto; 
+}
+
+table.titleTbl {
+    padding-top: 50px;
+    width: 25%;
+    margin: auto;
+}
+table.estimatesTable {
+    width: 75%;
+    height: 300px;
+    margin: auto;
+}
+.estimatesDdl
+{
+    width:100%;
+    margin:auto;
+   }
+div.galleryDiv {
+    height: 750px;
+    background-color: black;
+}
+h1.galleryTitle {
+    font-family: AvenirC;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+p.galleryIntroduction {
+    text-align:center;
+    color:white;
+    font-family:Calibri;
+    width:44%;
+    font-size:13px;
+    margin:auto;
+}
+.galleryImg {
+    
+    width: 50px;
+    height: 3px;
+    border: 3px solide white;
+}
+.ssImg {
+
+   padding-top:55px;
+    height:100%;
+    margin:auto;
+    display:block;
+}
+.galleryContentTbl {
+    width: 85%;
+    margin: auto;
+    padding-top: 50px;
+}
+.galleryContentTblcell {
+    color:white;
+    text-align:center;
+    font-family:Calibri;
+}
+.slideTransition 
+{
+    width:15%;
+    padding-top:30px;
+}
+.estimatesRow {
+    width: 100%;
+    height: 25%;
+}
+.disclaimer {
+    font-size: small;
+    color: white;
+    text-align: center;
+   padding-top:195px;
+}
+@font-face {
+    font-family: signpainter;
+    src: url(Font/signpainter.woff);
+}
+
+@font-face {
+    font-family: Avenir;
+    src: url(Fonts/avenirnextregular.woff);
+}
+
+@font-face {
+    font-family: AvenirC;
+    src: url(Fonts/AvenirCn.woff);
+}
+
+@font-face 
+{
+    font-family: Calibri;
+    src: url(Fonts/Calibri.woff);
+}
+
+@font-face {
+    font-family: Edwardian;
+    src: url(Fonts/edwardianscriptitc.ttf);
+}
+
+{
+    box-sizing: border-box;
+}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+.mySlides {
+    display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+/* Caption text */
+
+
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+    .active, .dot:hover {
+        background-color: #717171;
+    }
+
+/* Fading animation */
+.fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+
+
+
+.select {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+    .select select {
+        font-family: AvenirC;
+        font-size:medium;
+        display: inline-block;
+        width: 100%;
+        cursor: pointer;
+        padding: 10px 15px;
+        outline: 0;
+        border: 0px solid #000000;
+        border-radius: 0px;
+        background: #EFF683;
+        color: #0A0A0A;
+        appearance: none;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+    }
+
+        .select select::-ms-expand {
+            display: none;
+        }
+
+        .select select:hover,
+        .select select:focus {
+            color: #000000;
+            background: #EFF683;
+        }
+
+        .select select:disabled {
+            opacity: 0.5;
+            pointer-events: none;
+        }
+
+.select_arrow {
+    position: absolute;
+    top: 16px;
+    right: 15px;
+    width: 0;
+    height: 0;
+    pointer-events: none;
+    border-style: solid;
+    border-width: 8px 5px 0px 5px;
+    border-color: #7B7B7B transparent transparent transparent;
+}
+
+.select select:hover ~ .select_arrow,
+.select select:focus ~ .select_arrow {
+    border-top-color: #000000;
+}
+
+.select select:disabled ~ .select_arrow {
+    border-top-color: #CCCCCC;
+}
+
+
+.estimatesTbox {
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    padding: 10px 20px;
+    border: 1px solid #b7b7b7;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    font: normal 16px/normal "Times New Roman", Times, serif;
+    color: black;
+    -o-text-overflow: clip;
+    text-overflow: clip;
+    background: rgb(239, 246, 131);
+    -webkit-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+    -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+    -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+    transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+    font-family: AvenirC;
+}
+
+.estimatesBtn {
+    border: white;
+    background-color:indianred;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    color: white;
+    border: solid;
+}
+.estimatesBtn {
+    border: white;
+    color: white;
+    border: solid;
+    background-color:indianred;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+}
+.estimateTextBtn 
+{
+    font-size:30px;
+    text-align:center;
+    font-family:signpainter;
+    color:black;
+
+}
+.estimateTbox {
+    background-color: #EFF683;
+    width: 98%;
+    height: 35px;
+    font-family: AvenirC;
+    font-size:17px;
+}
+.cakeFormBtn {
+    background-color: red;
+    border: solid white;
+    color: white;
+    font-family: signpainter;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    display: inline;
+    float: left;
+    width: 25%;
+    height: 30px;
+}
+.cakeFormBtn2 {
+    background-color: red;
+    border: solid white;
+    color: white;
+    font-family: signpainter;
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    display: inline;
+    float: right;
+    width: 25%;
+    height: 30px;
+}
