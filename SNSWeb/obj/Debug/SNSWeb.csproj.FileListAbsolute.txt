@@ -1,0 +1,15 @@
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/obj/Debug/SNSWeb.csprojResolveAssemblyReference.cache
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/obj/Debug/SNSWeb.csproj.CoreCompileInputs.cache
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/SNSWeb.dll
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/SNSWeb.pdb
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/Newtonsoft.Json.dll
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/System.Net.Http.Formatting.dll
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/System.Web.Http.dll
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/System.Web.Http.WebHost.dll
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/System.Net.Http.Formatting.xml
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/System.Web.Http.xml
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/System.Web.Http.WebHost.xml
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/Newtonsoft.Json.xml
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/obj/Debug/SNSWeb.dll
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/obj/Debug/SNSWeb.pdb
+/Users/Infinite/Projects/SNSWEBSol/SNSWeb/bin/PresentationFramework.dll
